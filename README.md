@@ -1,6 +1,6 @@
 # Zshpipe
 
-Zsh functions to interact with pipe lines.
+Zsh key-bindings to navigate shell pipelines.
 
 # Using
 
