@@ -12,8 +12,7 @@ bindkey '\el' zshpipe-next-pipe
 
 ```
 
-M-f to delete a pipe
-M-h and M-l to move forward and backward pipe lines components.
+Use `M-f` to delete a pipe, and `M-h` and `M-l` to move forward and backward between pipe lines components.
 
 # Alternatives and prior work
 
