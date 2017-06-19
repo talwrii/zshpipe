@@ -19,6 +19,7 @@ _zshpipe-test() {
 zshpipe-delete-pipe() {
     BUFFER=$(_zshpipe-delete "$BUFFER")
 }
+zle -N zshpipe-delete-pipe
 
 zshpipe-prev-pipe() {
     local first_char
